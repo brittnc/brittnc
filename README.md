@@ -2,8 +2,8 @@
 
 ![Profile views](https://gpvc.arturio.dev/brittnc)
 
-💻 I am Full Stack Web Developer through UNC Chapel Hill
-💪 I am also an Asst Manager of Merch in a high volume setting - 9 years strong!
+- 💻 I am Full Stack Web Developer through UNC Chapel Hill
+- 💪 I am also an Asst Manager of Merch in a high volume setting - 9 years strong!
 
 
 
