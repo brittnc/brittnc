@@ -1,22 +1,15 @@
-### Hi there 👋
+### Hi there I'm Britt! 👋
+
+![Profile views](https://gpvc.arturio.dev/brittnc)
+
+💻 I am Full Stack Web Developer through UNC Chapel Hill
+💪 I am also an Asst Manager of Merch in a high volume setting - 9 years strong!
+
+
+
+## 📫 How to reach me:
+- Email: brittneylynn@live.com
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=brittnc&count_private=true&theme=tokyonight&showicons=true)]()
-
-
-
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=brittnc&langs_count=5&theme=tokyonight)]()
-<!--
-**brittnc/brittnc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
